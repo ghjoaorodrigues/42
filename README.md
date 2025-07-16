@@ -10,7 +10,7 @@ Welcome to my 42 Common Core journey! This repository serves as an index to all 
 | 1    | Born2beroot            | Virtual machine setup and monitoring             | [Repo](https://github.com/ghjoaorodrigues/42-Born2beroot) |
 | 1    | ft_printf              | Custom printf function                           | [Repo](https://github.com/ghjoaorodrigues/42-ft_printf) |
 | 1    | get_next_line          | Read a file line by line                         | [Repo](https://github.com/ghjoaorodrigues/42-get_next_line) |
-| 2    | get_next_line          | Sort data using limited stack operations         | [Repo](https://github.com/ghjoaorodrigues/42-get_next_line) |
+| 2    | push_swap              | Sort data using limited stack operations         | [Repo](https://github.com/ghjoaorodrigues/42-push_swap) |
 | 2    | minitalk               | Send messages via UNIX signals                   | [Repo](https://github.com/ghjoaorodrigues/42-minitalk) |
 | 2    | so_long                | Simple 2D game using MiniLibX                    | [Repo](https://github.com/ghjoaorodrigues/42-so_long) |
 | 3    | philosophers           | Dining philosophers with threading/semaphores    | [Repo](https://github.com/ghjoaorodrigues/42-philosophers) |
