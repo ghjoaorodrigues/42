@@ -10,18 +10,16 @@ Welcome to my 42 Common Core journey! This repository serves as an index to all 
 | 1    | Born2beroot            | Virtual machine setup and monitoring             | [Repo](https://github.com/ghjoaorodrigues/42-Born2beroot) |
 | 1    | ft_printf              | Custom printf function                           | [Repo](https://github.com/ghjoaorodrigues/42-ft_printf) |
 | 1    | get_next_line          | Read a file line by line                         | [Repo](https://github.com/ghjoaorodrigues/42-get_next_line) |
+| 2    | get_next_line          | Sort data using limited stack operations         | [Repo](https://github.com/ghjoaorodrigues/42-get_next_line) |
 | 2    | minitalk               | Send messages via UNIX signals                   | [Repo](https://github.com/ghjoaorodrigues/42-minitalk) |
 | 2    | so_long                | Simple 2D game using MiniLibX                    | [Repo](https://github.com/ghjoaorodrigues/42-so_long) |
-| 3    | minishell              | A basic Unix shell                               | [Repo](https://github.com/ghjoaorodrigues/42-minishell) |
 | 3    | philosophers           | Dining philosophers with threading/semaphores    | [Repo](https://github.com/ghjoaorodrigues/42-philosophers) |
-| 5    | cub3D                  | Raycasting game engine in C                      | [Repo](https://github.com/ghjoaorodrigues/42-cub3D) |
-| 6    | NetPractice            | Network simulation and analysis                  | [Repo](https://github.com/ghjoaorodrigues/42-NetPractice) |
-| 7    | CPP Modules 0-4        | Basic to intermediate C++ OOP                    | [Repo](https://github.com/ghjoaorodrigues/42-cpp-modules) |
-| 8    | ft_containers          | STL implementation in C++                        | [Repo](https://github.com/ghjoaorodrigues/42-ft_containers) |
-| 9    | ft_irc                 | Internet Relay Chat server                       | [Repo](https://github.com/ghjoaorodrigues/42-ft_irc) |
-| 10   | webserv                | HTTP server in C++                               | [Repo](https://github.com/ghjoaorodrigues/42-webserv) |
-| 11   | Inception              | Docker-based infrastructure setup                | [Repo](https://github.com/ghjoaorodrigues/42-Inception) |
-| 12   | ft_transcendence       | Full-stack web app (NestJS, Vue, PostgreSQL)     | [Repo](https://github.com/ghjoaorodrigues/42-ft_transcendence) |
+| 3    | minishell              | A basic Unix shell                               | [Repo](https://github.com/ghjoaorodrigues/42-minishell) |
+| 4    | NetPractice            | Network simulation and analysis                  | [Repo](https://github.com/ghjoaorodrigues/42-NetPractice) |
+| 4    | CPP Modules 0-4        | Basic to intermediate C++ OOP                    | [Repo](https://github.com/ghjoaorodrigues/42-cpp-modules) |
+| 4    | cub3D                  | Raycasting game engine in C                      | [Repo](https://github.com/ghjoaorodrigues/42-cub3D) |
+| 5    | CPP Modules 5-9        | Advanced C++ concepts and STL                    | [Repo](https://github.com/ghjoaorodrigues/42-cpp-modules) |
+| 5    | webserv                | HTTP server in C++                               | [Repo](https://github.com/ghjoaorodrigues/42-webserv) |
 
 ---
 
