@@ -14,7 +14,7 @@ Welcome to my 42 Common Core journey! This repository serves as an index to all 
 | 2    | push_swap              | Sort data using limited stack operations         | [Repo](https://github.com/ghjoaorodrigues/42-push_swap) |
 | 2    | so_long                | Simple 2D game using MiniLibX                    | [Repo](https://github.com/ghjoaorodrigues/42-so_long) |
 | 3    | minishell              | A basic Unix shell                               | [Repo](https://github.com/ghjoaorodrigues/42-minishell) |
-| 3    | philosophers           | Dining philosophers with threading/semaphores    | [Repo](https://github.com/ghjoaorodrigues/42-philosophers) |
+| 3    | Philosophers           | Dining philosophers with threading/semaphores    | [Repo](https://github.com/ghjoaorodrigues/42-Philosophers) |
 | 4    | CPP Modules 0-4        | Basic to intermediate C++ OOP                    | [Repo](https://github.com/ghjoaorodrigues/42-cpp-modules) |
 | 4    | cub3D                  | Raycasting game engine in C                      | [Repo](https://github.com/ghjoaorodrigues/42-cub3D) |
 | 4    | NetPractice            | Network simulation and analysis                  | [Repo](https://github.com/ghjoaorodrigues/42-NetPractice) |
