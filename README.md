@@ -2,6 +2,19 @@
 
 Welcome to my 42 Common Core journey! This repository serves as an index to all my individual project repositories from the 42 coding school curriculum.
 
+---
+
+## Before the Common Core
+
+The projects below were part of my introduction to 42, designed to test foundational logic, persistence, and teamwork under pressure.
+
+| Type           | Project         | Description                                                                | Link                                      |
+|----------------|------------------|----------------------------------------------------------------------------|-------------------------------------------|
+| Bootcamp       | Piscine          | A month-long intensive C bootcamp — the entrance to 42                    | [Repo](https://github.com/ghjoaorodrigues/42-C_Piscine) |
+| Post-Piscine   | Piscine Reload   | A set of post-piscine exercises to reinforce core C skills                | [Repo](https://github.com/ghjoaorodrigues/42-C_Piscine_Reload) |
+
+---
+
 ## Projects
 
 | Rank | Project                | Description                                       | Link                                      |
