@@ -1,6 +1,6 @@
-# 42 Common Core
+# 42 School
 
-Welcome to my 42 Common Core journey! This repository serves as an index to all my individual project repositories from the 42 coding school curriculum.
+Welcome to my 42 School journey! This repository serves as an index to all my individual project repositories from the 42 coding school curriculum.
 
 ---
 
@@ -15,7 +15,7 @@ The projects below were part of my introduction to 42, designed to test foundati
 
 ---
 
-## Projects
+## Common Core Projects
 
 | Rank | Project                | Description                                       | Link                                      |
 |------|------------------------|---------------------------------------------------|-------------------------------------------|
