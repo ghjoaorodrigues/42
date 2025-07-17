@@ -1,6 +1,6 @@
-# 42 School
+# 42
 
-Welcome to my 42 School journey! This repository serves as an index to all my individual project repositories from the 42 coding school curriculum.
+Welcome to my 42 journey! This repository serves as an index to all my individual project repositories from the 42 coding school curriculum.
 
 ---
 
