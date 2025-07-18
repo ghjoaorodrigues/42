@@ -31,7 +31,7 @@ The projects below were part of my introduction to 42, designed to test foundati
 | 4    | CPP Modules 0-4        | Basic to intermediate C++ OOP                    | [Repo](https://github.com/ghjoaorodrigues/42-CPP_Modules_00-04) |
 | 4    | cub3D                  | Raycasting game engine in C                      | [Repo](https://github.com/ghjoaorodrigues/42-cub3D) |
 | 4    | NetPractice            | Network simulation and analysis                  | [Repo](https://github.com/ghjoaorodrigues/42-NetPractice) |
-| 5    | CPP Modules 5-9        | Advanced C++ concepts and STL                    | [Repo](https://github.com/ghjoaorodrigues/42-cpp-modules) |
+| 5    | CPP Modules 5-9        | Advanced C++ concepts and STL                    | [Repo](https://github.com/ghjoaorodrigues/42-CPP_Modules_05-09) |
 | 5    | webserv                | HTTP server in C++                               | [Repo](https://github.com/ghjoaorodrigues/webserv) |
 
 ---
