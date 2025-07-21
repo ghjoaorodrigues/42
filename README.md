@@ -73,7 +73,9 @@ A full curriculum focused on low-level programming, system architecture, and sof
 
 ---
 
-💬 Want to know more about a specific project? Open the corresponding repo — each one includes its own detailed `README.md`.
+## More Information
+
+Want to know more about a specific project? Open the corresponding repo — each one includes its own detailed `README.md`.
 
 ---
 
