@@ -1,38 +1,30 @@
-# 42
+# 42 Curriculum Journey
 
-Welcome to my 42 journey! This repository serves as an index to all my individual project repositories from the 42 coding school curriculum.
+This repository is a structured overview of my journey through the [42 Network](https://42.fr/en/homepage/) — an intensive, project-based programming school with no teachers, no lectures, and no tuition.
 
----
-
-## Before the Common Core
-
-The projects below were part of my introduction to 42, designed to test foundational logic, persistence, and teamwork under pressure.
-
-| Type           | Project         | Description                                                                | Link                                      |
-|----------------|------------------|----------------------------------------------------------------------------|-------------------------------------------|
-| Bootcamp       | Piscine          | A month-long intensive C bootcamp — the entrance to 42                    | [Repo](https://github.com/ghjoaorodrigues/42-C_Piscine) |
-| Post-Piscine   | Piscine Reload   | A set of post-piscine exercises to reinforce core C skills                | [Repo](https://github.com/ghjoaorodrigues/42-C_Piscine_Reload) |
+Below you'll find each major phase of the program, organized as Git submodules. Each directory includes a detailed README listing the individual projects completed in that phase.
 
 ---
 
-## Common Core Projects
+## Index
 
-| Rank | Project                | Description                                       | Link                                      |
-|------|------------------------|---------------------------------------------------|-------------------------------------------|
-| 0    | Libft                  | Custom C standard library implementation         | [Repo](https://github.com/ghjoaorodrigues/42-Libft) |
-| 1    | Born2beroot            | Virtual machine setup and monitoring             | [Repo](https://github.com/ghjoaorodrigues/42-Born2beroot) |
-| 1    | ft_printf              | Custom printf function                           | [Repo](https://github.com/ghjoaorodrigues/42-ft_printf) |
-| 1    | get_next_line          | Read a file line by line                         | [Repo](https://github.com/ghjoaorodrigues/42-get_next_line) |
-| 2    | minitalk               | Send messages via UNIX signals                   | [Repo](https://github.com/ghjoaorodrigues/42-minitalk) |
-| 2    | push_swap              | Sort data using limited stack operations         | [Repo](https://github.com/ghjoaorodrigues/42-push_swap) |
-| 2    | so_long                | Simple 2D game using MiniLibX                    | [Repo](https://github.com/ghjoaorodrigues/42-so_long) |
-| 3    | minishell              | A basic Unix shell                               | [Repo](https://github.com/ghjoaorodrigues/42-minishell) |
-| 3    | Philosophers           | Dining philosophers with threading/semaphores    | [Repo](https://github.com/ghjoaorodrigues/42-Philosophers) |
-| 4    | CPP Modules 0-4        | Basic to intermediate C++ OOP                    | [Repo](https://github.com/ghjoaorodrigues/42-CPP_Modules_00-04) |
-| 4    | cub3D                  | Raycasting game engine in C                      | [Repo](https://github.com/ghjoaorodrigues/42-cub3D) |
-| 4    | NetPractice            | Network simulation and analysis                  | [Repo](https://github.com/ghjoaorodrigues/42-NetPractice) |
-| 5    | CPP Modules 5-9        | Advanced C++ concepts and STL                    | [Repo](https://github.com/ghjoaorodrigues/42-CPP_Modules_05-09) |
-| 5    | webserv                | HTTP server in C++                               | [Repo](https://github.com/ghjoaorodrigues/webserv) |
+- [`C_Piscine`](./C_Piscine) — The foundational bootcamp phase  
+  _ July–August 2024_
+
+- [`C_Piscine_Reload`](./C_Piscine_Reload) — One-week re-immersion & assessment  
+  _ October 2024_
+
+- [`Common_Core`](./Common_Core) — Core curriculum of 42  
+  _ October 2024 – Present_
+
+---
+
+> Each folder contains submodules for every individual project I completed during that stage.  
+To clone everything at once (including submodules), use:
+
+```bash
+git clone --recurse-submodules https://github.com/ghjoaorodrigues/42.git
+```
 
 ---
 
