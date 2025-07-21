@@ -85,3 +85,6 @@
 [submodule "Common_Core/Webserv"]
 	path = Common_Core/Webserv
 	url = https://github.com/42-joaorodrigues/Webserv
+[submodule "C_Piscine_Reload"]
+	path = C_Piscine_Reload
+	url = https://github.com/42-joaorodrigues/C_Piscine_Reload
