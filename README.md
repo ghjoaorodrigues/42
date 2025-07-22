@@ -1,5 +1,13 @@
-# 42 Curriculum Journey
+# My 42 Journey Is Now a GitHub Organization
 
-You can find the full overview of my 42 journey here:
+I've created a dedicated GitHub organization for my full 42 experience:  
+- **[42-joaorodrigues](https://github.com/42-joaorodrigues)**
 
-[github.com/42-joaorodrigues](https://github.com/42-joaorodrigues)
+Inside, you'll find:
+
+- **One repo per project** — clean, well-documented, and easy to explore
+- **Organized lists** — grouped by Piscine, Common Core, C++, and more
+- **A downloadable version** — clone everything at once with submodules:  
+[42-downloadable](https://github.com/ghjoaorodrigues/42-downloadable)
+
+Whether you're a peer, recruiter, or just curious — it's all structured and ready to browse.
